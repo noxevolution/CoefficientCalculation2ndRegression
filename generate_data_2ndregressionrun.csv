@@ -1,0 +1,11 @@
+uniqueid,forecasting,tool tip,node name,Category,delta,08-2010,Monthly
+Hobart_temperature,,Hobart_temperature,Hobart_temperature,External Data: Weather: Temperature,0.5,23.7,22.5,20.7,19.6,15.4,12.5,12.9,13.8,15.9,17.5,20.4,22.5,23.9,23.5,22.9,17.9,16,13,13.7,14.2
+Sydney_rainfall,,Sydney_rainfall,Sydney_rainfall,External Data: Weather:Rainfall,0.5,138.8,111,269.8,187,37.2,244.2,56.2,19,23.8,29.4,52,45.2,137.8,165.4,65.6,199.8,110.2,316.4,32.6,14.8
+hang_seng_open,,hang_seng_open,hang_seng_open,External Data: Financial Markets: Hong Kong,0.5,17179.2,20790.22,22739.55,22813.25,23686.77,23720.81,23664.48,23317.96,23451.62,20840.38,21573.93,22070.44,22860.25,23763.34,22957.09,22299.63,22737.01,22301.68,20803.29,22025.75
+s_p_close,,s_p_close,s_p_close,External Data: Financial Markets: United States,0.5,1253.3,1131.42,1218.89,1292.28,1320.64,1345.2,1363.61,1325.83,1327.22,1412.16,1416.18,1426.19,1498.11,1514.68,1569.19,1597.57,1630.74,1606.28,1685.73,1632.97
+Adelaide_temperature,,Adelaide_temperature,Adelaide_temperature,External Data: Weather: Temperature,0.5,30,26.7,25.3,23.6,18,15.3,15.1,15.5,19.1,21.9,26.6,27,28.5,28.7,28.4,23.8,20.6,16.4,16.2,17.2
+McGrath_Subaru_1265_A_Sydney_Overall_NPS,,McGrath Subaru_1265,McGrath Subaru_1265,Subaru:NPS:NPS Overall:Sydney,0.5,0,67.5,63.6,67.9,67.5,62.5,52.5,75,69.6,77.5,77.5,89.6,62.5,75,70.4,72.5,65,65,72.5,70.8
+Subaru_Doncaster_61_Z_Melbourne_Overall_NPS,,Subaru Doncaster_61,Subaru Doncaster_61,Subaru:NPS:NPS Overall:Melbourne,0.5,0,80,67.5,70,70,75,60,72.5,77.5,72.5,77.5,72.5,75,87.5,77.5,75,82.5,82.5,77.5,67.5
+Subaru_North_Shore_1633_Z_Sydney_Overall_NPS,,Subaru North Shore_1633,Subaru North Shore_1633,Subaru:NPS:NPS Overall:Sydney,0.5,0,87.5,0,80,79.1,50,87.5,79.8,80,70,69.5,69.3,87.5,87.2,90,77.5,87.5,82.5,65.9,87.5
+Central_Coast_Subaru_1124_A_Sydney_Overall_NPS,,Central Coast Subaru_1124,Central Coast Subaru_1124,Subaru:NPS:NPS Overall:Sydney,0.5,0,68.9,50,58.9,57.1,51.9,78.4,60,73.2,82.5,72.1,84.5,78.8,80.7,75,77.5,78.9,27.5,76.9,75.9
+Subaru_Service_Essendon_79_Z_Melbourne_Overall_NPS,,Subaru Service Essendon_79,Subaru Service Essendon_79,Subaru:NPS:NPS Overall:Melbourne,0.5,0,35,35,75,62,50,75,45,85,50,80,55,75,60,70,80,75,65,85,90
